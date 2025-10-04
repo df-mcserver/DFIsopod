@@ -1,0 +1,7 @@
+name: DFIsopods
+version: '1.0.0-DEV'
+main: uk.co.nikodem.dFIsopods.DFIsopods
+api-version: '1.21'
+commands:
+  givedf:
+    usage: /givedf {material_id}

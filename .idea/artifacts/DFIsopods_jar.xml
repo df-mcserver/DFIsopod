@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DFIsopods:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DFIsopods_jar</output-path>
+    <root id="archive" name="DFIsopods.jar">
+      <element id="module-output" name="DFIsopods" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
